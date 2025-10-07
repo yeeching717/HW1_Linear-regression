@@ -1,6 +1,14 @@
 # 互動式簡單線性回歸分析
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2pxey73qdqpskstqy6i5mx.streamlit.app/)
+
 這是一個使用 Streamlit 建立的互動式 Web 應用程式，旨在視覺化並解釋簡單線性回歸的原理。專案的開發遵循了 [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/) 方法論。
+
+## 線上預覽
+
+您可以透過以下連結直接存取此應用程式的線上版本：
+
+**[https://2pxey73qdqpskstqy6i5mx.streamlit.app/](https://2pxey73qdqpskstqy6i5mx.streamlit.app/)**
 
 ## 專案描述
 
